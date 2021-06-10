@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @SuperBuutterBun5
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in anime, manga, cooking and coding.
+- 🌱 I’m currently learning how to code,"im kind of a newbie at this point"
+- 💞️ I’m looking to collaborate on my social media application and future projects that may come up.
+- 📫 How to reach me you - can send me an email @butter.buisness@gmail.com, on instagram @muna___16
+![tenor](https://user-images.githubusercontent.com/85677092/121518312-a30ffc80-c9f0-11eb-9401-76f10526274b.gif)
+
 
 <!---
 SuperBuutterBun5/SuperBuutterBun5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
